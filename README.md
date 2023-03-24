@@ -2,7 +2,6 @@
 
 i'm just a regular guy who didn't pursue a career in technology but has been using it for decades.  i'm currently in the process of learning and re-learning everything i can about the technology i've neglected over the past several years.  i eventually see myself learning python, but that will take some time. 
 
-<br />
 
 ## things
 
@@ -10,13 +9,11 @@ feel free to check out https://walderf.github.io/things/, a replacement for [htt
 
 there are also some things regarding the general administration, configuration, and hardening of *(mainly \*nix-related)* OSes.  plus, there is a *(slowly)* growing list of nifty commandline (CLI) things, that either contain their own unique function(s), enhance existing functions, or straight-up replace some more commonly-used tools/utilities. 
 
-<br />
 
 ## dotfiles
 
 i am also sharing some of my system and application configuration files, or dotfiles, in [walderf/dotfiles](https://github.com/walderf/dotfiles). 
 
-<br />
 <br />
 <br />
 
