@@ -2,6 +2,7 @@
 
 i'm just a regular guy who didn't pursue a career in technology but has been using it for decades.  i'm currently in the process of learning and re-learning everything i can about the technology i've neglected over the past several years.  i eventually see myself learning python, but that will take some time. 
 
+
 <br />
 <br />
 
