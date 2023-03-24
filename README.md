@@ -2,17 +2,14 @@
 
 i'm just a regular guy who didn't pursue a career in technology but has been using it for decades.  i'm currently in the process of learning and re-learning everything i can about the technology i've neglected over the past several years.  i eventually see myself learning python, but that will take some time. 
 
-
 <br />
 <br />
-
 
 ## things
 
 feel free to check out https://walderf.github.io/things/, a replacement for [https://github.com/walderf/stuff/oldREADME.md](https://github.com/walderf/stuff/blob/main/oldREADME.md), to see things such as articles and links, pertaining to, but not limited to, computers, the internet, security, and some privacy-rlated things that just might make you go:  _"woah. holy sheet!"_.  
 
 there are also some things regarding the general administration, configuration, and hardening of *(mainly \*nix-related)* OSes.  plus, there is a *(slowly)* growing list of nifty commandline (CLI) things, that either contain their own unique function(s), enhance existing functions, or straight-up replace some more commonly-used tools/utilities. 
-
 
 <br />
 <br />
