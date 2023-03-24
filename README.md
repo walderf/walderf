@@ -3,27 +3,27 @@
 i'm just a regular guy who didn't pursue a career in technology but has been using it for decades.  i'm currently in the process of learning and re-learning everything i can about the technology i've neglected over the past several years.  i eventually see myself learning python, but that will take some time. 
 
 
-#### things
+## things
 
 feel free to check out https://walderf.github.io/things/, a replacement for [https://github.com/walderf/stuff/oldREADME.md](https://github.com/walderf/stuff/blob/main/oldREADME.md), to see things such as articles and links, pertaining to, but not limited to, computers, the internet, security, and some privacy-rlated things that just might make you go:  _"woah. holy sheet!"_.  
 
 there are also some things regarding the general administration, configuration, and hardening of *(mainly \*nix-related)* OSes.  plus, there is a *(slowly)* growing list of nifty commandline (CLI) things, that either contain their own unique function(s), enhance existing functions, or straight-up replace some more commonly-used tools/utilities. 
 
 
-#### dotfiles
+## dotfiles
 
 i am also sharing some of my system and application configuration files, or dotfiles, in [walderf/dotfiles](https://github.com/walderf/dotfiles). 
 
 
 <br />
 
-##### more about the "woah. holy sheet!" inducing **"privacy"** things i mentioned earlier?
+### more about the "woah. holy sheet!" inducing **"privacy"** things i mentioned earlier?
 
 allow me to reiterate the importance of this topic. 
 
 <br />
 
-### ***privacy*** online ***is*** pretty much ***non-existent***. 
+## ***privacy*** online ***is*** pretty much ***non-existent***. 
 
 *(this is, if at the time you're reading this, it's not already completely gone.)*
 
