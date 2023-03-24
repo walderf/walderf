@@ -16,14 +16,15 @@ i am also sharing some of my system and application configuration files, or dotf
 
 
 <br />
+<br />
 
-### more about the "woah. holy sheet!" inducing **"privacy"** things i mentioned earlier?
+## more about the "woah. holy sheet!" inducing **"privacy"** things i mentioned earlier?
 
 allow me to reiterate the importance of this topic. 
 
 <br />
 
-## ***privacy*** online ***is*** pretty much ***non-existent***. 
+### ***privacy*** online ***is*** pretty much ***non-existent***. 
 
 *(this is, if at the time you're reading this, it's not already completely gone.)*
 
