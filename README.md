@@ -20,7 +20,9 @@ i am also sharing some of my system and application configuration files, or dotf
 <br />
 <br />
 
-## the aforementioned "woah. holy sheet!" inducing **"privacy"** things
+the aforementioned "woah. holy sheet!" inducing **"privacy"** things
+
+----
 
 <br />
 
@@ -30,7 +32,7 @@ allow me to reiterate the importance of this topic.
 
 ### ***privacy*** online ***is*** pretty much ***non-existent***. 
 
-##### *(this is, if at the time you're reading this, it's not already completely gone.)*
+*(this is, if at the time you're reading this, it's not already completely gone.)*
 
 <br />
 
