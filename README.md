@@ -28,7 +28,7 @@ allow me to reiterate the importance of this topic.
 
 the resources, ([articles](https://walderf.github.io/things/articles/#privacy) and [links](https://walderf.github.io/things/links/#privacy)), i have assembled contain quite detailed, descriptive information on various, *(\*FREE\* and open-source, of course!)*, methods aimed to protect you online.   
 
-what's better than no-catch, direct links to easy-to-follow, straight-forward, and resources that range from "quick-and-easy-to-implement" all the way to "hardcore AF"??   the best part is, many of the "services" mentioned are active all the time, every time, and require, once up-and-running, a rarely-to-never level of interaction by the end-user.
+what's better than no-catch, direct links to easy-to-follow, straight-forward resources that range from "quick-and-easy-to-implement" all the way to "hardcore AF"??   the best part is, once up-and-running, many of the "services" mentioned require little to no interaction by the end-user as they actively protect. 
 
 #### these things can and absolutely \*_will_\* benefit \*__any__\* and \*__every__\* level of internet-connected computer user. 
 
