@@ -6,7 +6,7 @@ i'm just a regular guy who didn't pursue a career in technology but has been usi
 
 ## things
 
-feel free to check out https://walderf.github.io/things/, a replacement for [https://github.com/walderf/stuff/oldREADME.md](https://github.com/walderf/stuff/blob/main/oldREADME.md), to see things such as articles and links, pertaining to, but not limited to, computers, the internet, security, and some privacy-rlated things that just might make you go:  _"woah. holy sheet!"__\*\*\*__.  
+feel free to check out https://walderf.github.io/things/, a replacement for [https://github.com/walderf/stuff/oldREADME.md](https://github.com/walderf/stuff/blob/main/oldREADME.md), to see things such as articles and links, pertaining to, but not limited to, computers, the internet, security, and some privacy-rlated things that just might make you go:  _"woah. holy sheet!"_ __[see below](#below)__.  
 
 there are also some things regarding the general administration, configuration, and hardening of *(mainly \*nix-related)* OSes.  plus, there is a *(slowly)* growing list of nifty commandline (CLI) things, that either contain their own unique function(s), enhance existing functions, or straight-up replace some more commonly-used tools/utilities. 
 
@@ -20,19 +20,15 @@ i am also sharing some of my system and application configuration files, or dotf
 <br />
 <br />
 
-__\*\*\*__ ___the aforementioned "woah. holy sheet!" inducing **"privacy"** things___
+#### below
 
 ----
-
-<br />
 
 allow me to reiterate the importance of this topic. 
 
 <br />
 
 ### ***privacy*** online ***is*** pretty much ***non-existent***. 
-
-*(this is, if at the time you're reading this, it's not already completely gone.)*
 
 <br />
 
