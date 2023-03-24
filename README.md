@@ -20,9 +20,7 @@ i am also sharing some of my system and application configuration files, or dotf
 <br />
 <br />
 
-### below
-
-----
+## below
 
 allow me to reiterate the importance of this topic. 
 
