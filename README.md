@@ -16,16 +16,22 @@ i am also sharing some of my system and application configuration files, or dotf
 
 <br />
  
-## below
-
-allow me to reiterate the importance of this topic.
-
-#### ***privacy*** online ***is*** pretty much ***non-existent***. 
+### below
 
 <br />
 
+in order to not have a bloated profile page, the content below is hidden. 
+
 <details><summary> <--- click to get informed.</summary>
 
+ <br />
+ 
+ allow me to reiterate the importance of this topic.
+
+#### ***privacy*** online ***is*** pretty much ***non-existent***. 
+
+ 
+ 
 <br />
   
 the resources, ([articles](https://walderf.github.io/things/articles/#privacy) and [links](https://walderf.github.io/things/links/#privacy)), i have assembled contain quite detailed, descriptive information on various, *(\*FREE\* and open-source, of course!)*, methods aimed to protect you online.   
