@@ -15,14 +15,19 @@ there are also some things regarding the general administration, configuration, 
 i am also sharing some of my system and application configuration files, or dotfiles, in [walderf/dotfiles](https://github.com/walderf/dotfiles). 
 
 <br />
-<br />
-
+ 
 ## below
 
-allow me to reiterate the importance of this topic. 
+allow me to reiterate the importance of this topic.
 
-### ***privacy*** online ***is*** pretty much ***non-existent***. 
+#### ***privacy*** online ***is*** pretty much ***non-existent***. 
 
+<br />
+
+<details><summary> <--- click to get informed.</summary>
+
+<br />
+  
 the resources, ([articles](https://walderf.github.io/things/articles/#privacy) and [links](https://walderf.github.io/things/links/#privacy)), i have assembled contain quite detailed, descriptive information on various, *(\*FREE\* and open-source, of course!)*, methods aimed to protect you online.   
 
 what's better than no-catch, direct links to easy-to-follow, straight-forward resources that range from "quick-and-easy-to-implement" all the way to "hardcore AF"??   the best part is, once up-and-running, many of the "services" mentioned require little to no interaction by the end-user as they actively protect. 
@@ -35,6 +40,9 @@ not convinced?  please [read this article](https://www.wired.com/story/big-data-
 this simple action, if you will, is for the greater good of humanity.  a humanity present not only *today*, but, and with significantly more importance, tomorrow.  humanity's future.  our future.  \*_the_\* future.   *( <--- not a joke or even close to a "truth-stretch" :| )*  :)    
 
 <br />
+  
+</details>  
+  
 <br />
 <br />
 
